@@ -1,5 +1,5 @@
 {
-  "name": "daneshmadarbakus-portfolio",
+  "name": "mustaphamiah-portfolio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,11 +15,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "git+https://github.com/DaneshMadarbakus/DaneshMadarbakus.github.io.git",
-  "author": "DaneshMadarbakus <daneshplt@hotmail.co.uk>",
+  "repository": "git+https://github.com/MustaphaMiah/MustaphaMiah.github.io.git",
+  "author": "Mustapha <musty@mustymiah.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DaneshMadarbakus/DaneshMadarbakus.github.io/issues"
+    "url": "https://github.com/MustaphaMiah/MustaphaMiah.github.io/issues"
   },
-  "homepage": "https://github.com/DaneshMadarbakus/DaneshMadarbakus.github.io#readme"
+  "homepage": "https://github.com/MustaphaMiah/MustaphaMiah.github.io#readme"
 }
