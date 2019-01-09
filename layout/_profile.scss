@@ -1,0 +1,54 @@
+.profile{
+  .quote{
+    padding:0 0.5rem;
+    margin-bottom:3rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size:1.5rem;
+    @include min($bp-ms){
+      padding:0 6rem;
+    }
+  }
+  img{
+    border-radius: 50%;
+    width:250px;
+    margin-bottom:1rem;
+  }
+  p{
+    margin-bottom:1.5rem;
+  }
+  .about-section{
+    padding-top:1rem;
+    i{
+      margin-bottom:1.25rem;
+    }
+    p{
+      margin-bottom:0;
+    }
+  }
+
+}
+
+
+//   .aboutP{
+//     margin:0 auto;
+//     max-width:950px;
+//   }
+
+//   img{
+//     width:200px;
+//     margin-top:50px;
+//     border-radius: 50%;
+//   }
+//   .technology{
+
+//     p{
+//       width:100%;
+//     }
+//   }
+//   .abouty{
+//     max-width:950px;
+//     margin: 0 auto;
+//     padding-top:50px;
+//     padding-bottom:50px;
+//   }
+// }
