@@ -1,0 +1,25 @@
+{
+  "name": "daneshmadarbakus-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "node-sass": "^4.5.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/DaneshMadarbakus/DaneshMadarbakus.github.io.git",
+  "author": "DaneshMadarbakus <daneshplt@hotmail.co.uk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaneshMadarbakus/DaneshMadarbakus.github.io/issues"
+  },
+  "homepage": "https://github.com/DaneshMadarbakus/DaneshMadarbakus.github.io#readme"
+}
