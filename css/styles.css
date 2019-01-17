@@ -1680,7 +1680,7 @@ h6, .heading6 {
     order: 10; } }
 
 .bg-primary {
-  background: #DB5461;
+  background: #123456;
   color: #ffffff; }
 
 .bg-secondary {
@@ -1698,19 +1698,19 @@ h6, .heading6 {
   background: #000000; }
 
 .bg-primary-light-20 {
-  background: #eda8af; }
+  background: #2467aa; }
 
 .bg-secondary-light-20 {
   background: white; }
 
 .bg-primary-light-40 {
-  background: #fefdfd; }
+  background: #589adc; }
 
 .bg-secondary-light-40 {
   background: white; }
 
 .bg-primary-light-60 {
-  background: white; }
+  background: #accdee; }
 
 .bg-secondary-light-60 {
   background: white; }
@@ -1722,13 +1722,13 @@ h6, .heading6 {
   background: white; }
 
 .bg-primary-dark-20 {
-  background: #a62330; }
+  background: #000102; }
 
 .bg-secondary-dark-20 {
   background: #b5b5b5; }
 
 .bg-primary-dark-40 {
-  background: #521117; }
+  background: black; }
 
 .bg-secondary-dark-40 {
   background: #828282; }
@@ -1746,7 +1746,7 @@ h6, .heading6 {
   background: #1c1c1c; }
 
 .text-primary {
-  color: #DB5461; }
+  color: #123456; }
 
 .text-secondary {
   color: #E8E8E8; }
@@ -1763,7 +1763,7 @@ h6, .heading6 {
 a {
   text-decoration: none;
   font-family: "Raleway", "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
-  color: #DB5461; }
+  color: #123456; }
   a.page-link {
     font-size: 1.25rem; }
 
@@ -1856,11 +1856,11 @@ header ul {
       padding: 1.125rem 1rem 1rem;
       border: 1px dashed #ffffff; }
       header ul li a:hover {
-        color: #DB5461;
+        color: #123456;
         background: #ffffff;
         border-style: solid; }
       header ul li a:focus {
-        color: #DB5461;
+        color: #123456;
         background: #ffffff;
         border-style: solid; }
 
@@ -1890,11 +1890,11 @@ footer .contact ul {
       padding: 1.125rem 1rem 1rem;
       border: 1px dashed #ffffff; }
       footer .contact ul li a:hover {
-        color: #DB5461;
+        color: #123456;
         background: #ffffff;
         border-style: solid; }
       footer .contact ul li a:focus {
-        color: #DB5461;
+        color: #123456;
         background: #ffffff;
         border-style: solid; }
       footer .contact ul li a i {
@@ -1940,7 +1940,7 @@ footer .footer-footer {
   .projects-holder .project-block {
     padding-top: 2rem; }
     .projects-holder .project-block .project-info {
-      border-bottom: 1px dashed #DB5461;
+      border-bottom: 1px dashed #123456;
       padding: 0; }
       .projects-holder .project-block .project-info h3 {
         margin-bottom: 0.5rem; }
